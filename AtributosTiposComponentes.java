@@ -12,7 +12,7 @@ public class AtributosTiposComponentes extends javax.swing.JFrame {
 
     Conector cone;
     private int id_atributo = 0;
-   int prueba=0;
+   
 
     public AtributosTiposComponentes() {
         initComponents();
